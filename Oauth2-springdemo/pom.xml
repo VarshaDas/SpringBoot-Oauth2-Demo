@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.codewithease</groupId>
-	<artifactId>.oauth2-springdemo</artifactId>
+	<artifactId>Oauth2-springdemo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>.oauth2-springdemo</name>
 	<description>Oauth 2.0 Demo project for Spring Boot</description>
